@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 I’m currently **pursuing BCA DEGREE FROM TILAK MAHARASTRA VIDYAPEETH , PUNE [TY]**
+
 - 📫 How to reach me **sumitthakare122@gmail.com**
 
 - ⚡ Fun fact **I am funny**
